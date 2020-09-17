@@ -1,0 +1,12 @@
+[package]
+name = "trible"
+version = "0.1.0"
+authors = ["Jan-Paul Bultmann <jp@bultmann.eu>"]
+edition = "2018"
+description = "Command line utility for the tribles knowledge base."
+homepage = "https://tribles.space"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
